@@ -1,0 +1,25 @@
+,GeoFips,GeoName,LineCode,Description,2022,percentage_of_msa_gdp,ratio_to_USA,big_economy
+642,12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",45.0,    Information,48405197,0.10199870866219933,1.734546776112162,True
+779,12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",34.0,    Wholesale trade,23540708,0.1060132304945857,1.6955355546441366,True
+861,12580,"Baltimore-Columbia-Towson, MD (Metropolitan Statistical Area)",69.0,      Educational services,5196388,0.026524232847551264,2.1961502665452413,True
+1526,14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",69.0,      Educational services,16628069,0.03431189107595472,2.840951863348085,True
+2293,16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",64.0,      Management of companies and enterprises,9531170,0.052126445683902546,2.58033319490004,True
+2424,16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",34.0,    Wholesale trade,72262155,0.10393151606926838,1.6622414006383177,True
+3056,19100,"Dallas-Fort Worth-Arlington, TX (Metropolitan Statistical Area)",36.0,    Transportation and warehousing,32397002,0.06055781582662166,1.6928119421189571,True
+3371,19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",36.0,    Transportation and warehousing,14290007,0.07299685589567477,2.040528505042492,True
+3448,19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",64.0,      Management of companies and enterprises,9613027,0.03147564456793506,1.558089170361355,True
+5606,26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",12.0,    Manufacturing,99939282,0.26589637895777357,2.7092791452083103,True
+7409,31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",76.0,"      Arts, entertainment, and recreation",28968718,0.023600362359885323,2.1550642284508292,True
+7919,33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",34.0,    Wholesale trade,45498377,0.09405258299124913,1.5042414774439468,True
+8103,33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",64.0,      Management of companies and enterprises,15189844,0.057582925837388305,2.85043672263204,True
+8764,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",51.0,      Finance and insurance,407204385,0.2772285624259373,3.4600672119783953,True
+9159,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",76.0,"      Arts, entertainment, and recreation",7398407,0.03804350263005082,3.4739378316645446,True
+9471,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",69.0,      Educational services,13497700,0.04433874738618786,3.671154315758025,True
+9504,38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",65.0,      Administrative and support and waste management and remediation services,18011939,0.04974484896240889,1.4850954124564157,True
+10231,40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",36.0,    Transportation and warehousing,20310256,0.08536855253832268,2.3863625734459415,True
+10912,41740,"San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)",83.0,Government and government enterprises,50642043,0.1712934930550952,1.5996419398093937,True
+10932,41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",45.0,    Information,124533127,0.17899963498387617,3.043991868708835,True
+10967,41940,"San Jose-Sunnyvale-Santa Clara, CA (Metropolitan Statistical Area)",45.0,    Information,96249743,0.34063618927617717,5.792714551837203,True
+11247,42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",45.0,    Information,113854158,0.2198791533073394,3.7391716180114796,True
+12009,45300,"Tampa-St. Petersburg-Clearwater, FL (Metropolitan Statistical Area)",10.0,    Utilities,4074255,0.01982757715762549,1.3866373856259622,True
+12837,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV (Metropolitan Statistical Area) *",83.0,Government and government enterprises,144228750,0.3643476249218391,3.402497847991545,True
